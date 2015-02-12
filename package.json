@@ -1,0 +1,26 @@
+{
+  "name": "jshint-vsrep",
+  "version": "0.0.1",
+  "description": "Reporter for JSHint, designed to make errors consumable by Visual Studio 2015+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vkichline/jshint-vsrep"
+  },
+  "keywords": [
+    "jshint",
+    "reporter",
+    "lint",
+    "VS",
+    "TRX"
+  ],
+  "author": "Van Kichline",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkichline/jshint-vsrep/issues"
+  },
+  "homepage": "https://github.com/vkichline/jshint-vsrep"
+}
